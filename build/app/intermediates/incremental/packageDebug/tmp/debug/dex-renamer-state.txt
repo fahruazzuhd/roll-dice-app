@@ -1,0 +1,13 @@
+#Thu Oct 31 10:59:29 WIB 2024
+base.0=/Users/fahrudinaz-zuhd/Fahru/Flutter/roll-dice/roll_dice/build/app/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/Users/fahrudinaz-zuhd/Fahru/Flutter/roll-dice/roll_dice/build/app/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.2=/Users/fahrudinaz-zuhd/Fahru/Flutter/roll-dice/roll_dice/build/app/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
+base.3=/Users/fahrudinaz-zuhd/Fahru/Flutter/roll-dice/roll_dice/build/app/intermediates/dex/debug/mergeProjectDexDebug/9/classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=1/classes.dex
+path.3=9/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex
