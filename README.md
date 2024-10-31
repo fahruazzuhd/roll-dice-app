@@ -1,3 +1,3 @@
 # roll_dice
 
-A new Flutter project.
+A simple flutter roll dice app with curved animation
